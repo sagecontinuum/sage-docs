@@ -2,14 +2,14 @@
 <rss version="2.0">
     <channel>
         <title>Sage Blog</title>
-        <link>https://sagecontinuum.github.io/blog</link>
+        <link>https://sagecontinuum.github.io/sage-docs/blog</link>
         <description>Sage Blog</description>
         <lastBuildDate>Wed, 02 Sep 2020 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Argonne's Big Data Camp Goes Virtual]]></title>
-            <link>https://sagecontinuum.github.io/blog/big-data</link>
+            <link>https://sagecontinuum.github.io/sage-docs/blog/big-data</link>
             <guid>big-data</guid>
             <pubDate>Wed, 02 Sep 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[For five days last July, fourteen high school students attended a virtual coding camp sponsored by Argonne National Laboratory’s Educational Programs and Outreach and the Argonne Leadership Computing Facility (ALCF), co-taught by laboratory scientists and informal learning educators, and focused on learning techniques for probing and analyzing massive scientific datasets. And while the COVID-19 pandemic fundamentally changed how these students met, worked, and collaborated over the course of the week, they, and their instructors, found new and creative methods to explore the fascinating world of data science.]]></description>
