@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[195],{9526:function(e,t,n){n.r(t),n.d(t,{default:function(){return c}});var u=n(7294),s=(n(6742),n(2263),n(5977));function c(){return u.createElement(s.l_,{to:"/sage-docs/docs/about/overview"})}}}]);
