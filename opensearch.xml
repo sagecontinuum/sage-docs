@@ -4,8 +4,8 @@
   <ShortName>Sage</ShortName>
   <Description>Search Sage</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://sagecontinuum.github.io/img/sage-favicon.png</Image>
-  <Url type="text/html" method="get" template="https://sagecontinuum.github.io/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://sagecontinuum.github.io/opensearch.xml" />
-  <moz:SearchForm>https://sagecontinuum.github.io/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://sagecontinuum.github.io/sage-docs/img/sage-favicon.png</Image>
+  <Url type="text/html" method="get" template="https://sagecontinuum.github.io/sage-docs/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://sagecontinuum.github.io/sage-docs/opensearch.xml" />
+  <moz:SearchForm>https://sagecontinuum.github.io/sage-docs/</moz:SearchForm>
 </OpenSearchDescription>
