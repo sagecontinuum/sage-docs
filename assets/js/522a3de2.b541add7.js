@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[942],{6708:function(a){a.exports=JSON.parse('{"allTagsPath":"/sage-docs/blog/tags","slug":"big-data","name":"big data","count":1,"permalink":"/sage-docs/blog/tags/big-data"}')}}]);
