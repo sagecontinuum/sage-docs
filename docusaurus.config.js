@@ -59,21 +59,18 @@ module.exports = {
           items: [
             {
               label: 'About',
-              to: '/docs/about/overview',
+              to: '/docs/about/overview'
             },
-          ],
-        },
-        /*
-        {
-          title: 'example',
-          items: [
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'Tutorials',
+              to: '/docs/category/tutorials'
+            },
+            {
+              label: 'Get Support',
+              to: '/docs/contact-us'
             },
           ],
         }
-        */
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Sage`,
     },
